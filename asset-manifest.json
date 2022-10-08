@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The-PicSome-wimmadsidd/movie-search-app/static/css/main.77a2af4a.css",
+    "main.js": "/The-PicSome-wimmadsidd/movie-search-app/static/js/main.6da6c588.js",
+    "index.html": "/The-PicSome-wimmadsidd/movie-search-app/index.html",
+    "main.77a2af4a.css.map": "/The-PicSome-wimmadsidd/movie-search-app/static/css/main.77a2af4a.css.map",
+    "main.6da6c588.js.map": "/The-PicSome-wimmadsidd/movie-search-app/static/js/main.6da6c588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a2af4a.css",
+    "static/js/main.6da6c588.js"
+  ]
+}
